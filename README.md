@@ -3,6 +3,8 @@ The doorbell ringer is a device designed to notify residents of a house that som
 
 ![0](https://github.com/user-attachments/assets/73bf8ba4-e23a-4513-8dd0-4f36c874a75e)
 
+![IMG_1716](https://github.com/user-attachments/assets/f89635f2-903a-411b-bfd2-2bc445e9c6d1)
+
 Inputs: Push Button 1, Push Button 2 
 Outputs: Doorbell Buzzer (Piezo) / LED
 
